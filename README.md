@@ -34,3 +34,7 @@ pip install pillow
 Run the script:
 
 python Hawk.py
+
+
+<img width="1000" height="906" alt="Screenshot 2025-08-05 202522" src="https://github.com/user-attachments/assets/e7415d84-46f2-476c-a174-92e6a6fb5963" />
+<img width="998" height="911" alt="Screenshot 2025-08-05 202457" src="https://github.com/user-attachments/assets/53568fef-5db9-43e0-9360-096bb3fd3c85" />
